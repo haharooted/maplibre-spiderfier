@@ -59,7 +59,7 @@
         var maplibreMarker;
         var spiderLeg;
 
-        maplibreMarker = new maplibregl.Marker(elements.container)
+        maplibreMarker = new maplibregl.Marker({element: elements.container})
           .setLngLat(latLng);
 
         spiderLeg = {
