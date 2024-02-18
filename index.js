@@ -47,6 +47,7 @@
 
     // Private:
     function spiderfy(latLng, features) {
+      console.log("spiderfying: ", features, " at ", latLng)
       var spiderLegParams = generateSpiderLegParams(features.length);
       var spiderLegs;
 
