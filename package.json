@@ -1,6 +1,6 @@
 {
   "name": "maplibregl-spiderfier",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Spiderify markers on maplibre-gl using marker overlays.",
   "main": "index.js",
   "style": "index.css",
@@ -13,18 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ohrie/maplibre-spiderfier.git"
+    "url": "git+https://github.com/haharooted/maplibre-spiderfier.git"
   },
   "keywords": [
     "maplibregl",
     "spiderfy"
   ],
-  "author": "ohrie",
+  "author": "haharooted",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ohrie/maplibre-spiderfier/issues"
+    "url": "https://github.com/haharooted/maplibre-spiderfier/issues"
   },
-  "homepage": "https://github.com/ohrie/maplibre-spiderfier#readme",
+  "homepage": "https://github.com/haharooted/maplibre-spiderfier#readme",
   "devDependencies": {
     "eslint": "^4.19.1"
   }
